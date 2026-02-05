@@ -1,0 +1,277 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { 
+width: 960px;
+margin: 0px;
+background-color: slategray;
+}
+
+
+
+.nav {
+	background-color: #212C57;
+	text-decoration: none;
+	border-radius: 5px;
+	
+}
+	
+	#homebtn {
+	background-color: #212C57;
+	color: lightblue;
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 3px;
+	margin-right: 20px;
+	}
+		
+	#aboutbtn {
+	background-color: #212C57;
+	color: lightblue;
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 3px;
+	margin-right: 20px;
+	padding-bottom: 5px;
+		}
+		
+	#topsdressesbtn {
+	background-color: #212C57;
+	color: lightblue;
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 3px;
+	margin-right: 20px;
+	}
+		
+	#pantsskirtsbtn {
+	background-color: #212C57;
+	color: lightblue;
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 3px;
+	margin-right: 20px;
+		}
+	
+	#shoesaccessoriesbtn {
+	background-color: #212C57;
+	color: lightblue;
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 3px;
+		}
+
+nav {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	text-align: center;
+	font-size: 18px;
+	border-radius: 15px;
+	order-radius: 10px;
+	padding-bottom: 40px;
+} 
+
+
+.titleimg {
+	box-shadow: #888
+}
+	#moriyagelfenbein {
+	padding-bottom: 30px;
+}
+
+	 
+
+h1 { 
+	font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	color:#212C57;
+	font-size: 500;
+	text-align: center;
+}
+
+figcaption {
+		font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+		color: #212C57;
+		font-size: 250;
+		text-decoration: underline overline;
+		text-decoration-color: white;
+	}
+
+
+p { 
+	background-color: #A1ACC8;
+	box-shadow: 5px 5px 5px #515292;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 250;
+	color: #1C276C;
+	text-align: left;
+	margin-right: 400px;
+	padding: 20px;
+	border-radius: 15px;
+	padding-bottom: 50px;
+
+}
+
+.portraite {
+	display: block;
+}
+#me {
+	float: right;
+	margin-top: -440px;
+	margin-bottom: 130px;
+
+}
+
+
+.img {
+ 	margin: left; 
+}
+
+.img {
+	box-shadow: #888
+} 
+	#about {
+		float: left;
+		margin-top: -23px;
+	}
+	
+	#tops {
+		float: right;
+		margin-top: -40px;
+	}
+
+	#pants {
+	float: left;
+	margin-bottom: 50px;
+	}
+	
+	#accessories {
+		float: right;
+		margin-bottom: 50px;
+	}
+
+.darkwash-left {
+	margin-left: 262px;
+}
+
+.lightwash-center {
+	margin-left: 262px;
+}
+
+.overals-right {
+	margin-left: 262px;
+}
+
+.plaidskirt-left {
+	margin-left: 262px;
+}
+
+.swirlskirt-center{
+	margin-left: 262px;
+}
+
+.longskirt-right {
+	margin-left: 262px;
+	margin-bottom: 50px;
+}
+
+.browncrochet-left {
+	margin-left: 262px;
+}
+
+.whitetop-right {
+	margin-left: 262px;
+}
+
+.blacksweater-left {
+	 margin-left: 262px;
+}
+
+.jeanjacket-right {
+	margin-left: 262px;
+}
+
+.brownplaidress-left {
+	margin-left: 262px;
+}
+
+.redplaiddress-right {
+	margin-left: 262px;
+}
+
+.stripetubetop-left {
+	margin-left: 262px;
+}
+
+.whitecorset-right {
+	margin-left: 262px;
+}
+
+.strapplessdress-left {
+	margin-left: 262px;
+}
+
+.tietop-right {
+	margin-left: 262px;
+}
+
+.tubetop-left {
+	margin-left: 262px;
+}
+
+.zebradress-right {
+	margin-left: 262px;
+	margin-bottom: 50px;
+}
+
+.redbag {
+	margin-left: 262px;
+}
+
+.adidasshoes {
+	margin-left: 262px;
+}
+
+.buckleboots {
+	margin-left: 262px;
+}
+
+.cowboy {
+	margin-left: 262px;
+}
+
+.brownbag {
+	margin-left: 262px;
+}
+
+.camobag {
+	margin-left: 262px;
+}
+
+.sunglasses {
+	margin-left: 262px;
+}
+
+.mixedmetal {
+	margin-left: 262px;
+}
+
+.hairclips {
+	margin-left: 262px;
+}
+
+.simplenecklace {
+	margin-left: 262px;
+}
+
+.bluenecklace {
+	margin-left: 262px;
+}
+
+.whitebag {
+	margin-left: 262px;
+}
+
+.asics {
+	margin-left: 262px;
+	margin-bottom: 50px;
+}
+
